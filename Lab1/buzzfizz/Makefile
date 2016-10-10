@@ -15,6 +15,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+TOPLVL=../..
+
 FOLDER_NAME = MKL46Z4
 LINKER_NAME = MKL46Z4
 CPU = cortex-m0plus
@@ -30,20 +32,20 @@ AR = $(TOOLCHAIN)ar
 
 # application specific
 INSTRUCTION_MODE = thumb
-TARGET = billnicky
+TARGET = buzzfizz
 TARGET_EXT = elf
-LD_SCRIPT = ../cmsis/$(FOLDER_NAME)/$(LINKER_NAME).ld
+LD_SCRIPT = $(TOPLVL)/cmsis/$(FOLDER_NAME)/$(LINKER_NAME).ld
 
 CC_SYMBOLS = -DTOOLCHAIN_GCC_ARM -DNDEBUG
 
 LIBS = -lm -lgcc -lc -lnosys
 
 # directories
-INC_DIRS = ../cmsis ../cmsis/$(FOLDER_NAME) . ../libs/FreeRTOS/include ../libs/FreeRTOS/config/KL46Z4/gcc ../libs/FreeRTOS/port/gcc 
+INC_DIRS = $(TOPLVL)/cmsis $(TOPLVL)/cmsis/$(FOLDER_NAME) . $(TOPLVL)/libs/FreeRTOS/include $(TOPLVL)/libs/FreeRTOS/config/KL46Z4/gcc $(TOPLVL)/libs/FreeRTOS/port/gcc 
 # app headers directories (remove comment and add more files)
 #INC_DIRS +=
 
-SRC_DIRS = ../cmsis ../cmsis/$(FOLDER_NAME) . ../libs/FreeRTOS/src ../libs/FreeRTOS/port/gcc 
+SRC_DIRS = $(TOPLVL)/cmsis $(TOPLVL)/cmsis/$(FOLDER_NAME) . $(TOPLVL)/libs/FreeRTOS/src $(TOPLVL)/libs/FreeRTOS/port/gcc 
 # app source directories (remove comment and add more files)
 #SRC_DIRS +=
 
