@@ -1,0 +1,3 @@
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/CMakeFiles/edit_cache.dir
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/CMakeFiles/rebuild_cache.dir
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/CMakeFiles/dev_hid_my_mouse_bm.dir

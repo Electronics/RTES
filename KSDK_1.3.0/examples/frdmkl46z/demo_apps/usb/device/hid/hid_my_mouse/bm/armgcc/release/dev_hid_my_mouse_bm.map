@@ -1,0 +1,1781 @@
+Archive member included to satisfy reference by file (symbol)
+
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj (USB_Class_Periodic_Task)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj (USB_Class_HID_Init)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj) (usb_device_get_status)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj) (USB_Reset_Service)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj) (_usb_khci_dev_function_table)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj) (usb_dci_khci_get_xd)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj) (usb_dev_soc_init)
+../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj) (soc_get_usb_vector_number)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj) (OSA_SemaCreate)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj (CLOCK_SYS_BootToPee)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (g_oscBase)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj (CLOCK_SYS_SetSimConfigration)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (INT_SYS_InstallHandler)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj (LPSCI_HAL_SetBaudRate)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (LPTMR_HAL_SetTimerWorkingMode)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (CLOCK_HAL_PrepareOsc)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (CLOCK_HAL_GetMcgMode)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (OSC_HAL_SetCapacitor)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj) (CLOCK_HAL_SetOutDiv)
+../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj (UART_HAL_SetBaudRate)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (calloc)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj (__errno)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+                              ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj) (malloc)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                              ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj) (memcpy)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o) (_calloc_r)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_free_r)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj (strlen)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj (__gnu_thumb1_case_uqi)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj (__gnu_thumb1_case_uhi)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj (__aeabi_uidiv)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+                              CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj (__aeabi_idiv)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .text.assert_func
+                0x00000000       0x18 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .rodata.str1.1
+                0x00000000       0x3e CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .text.APP_task
+                0x00000000        0x8 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .data.ledPins  0x00000000       0x24 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .data.switchPins
+                0x00000000       0x18 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .comment       0x00000000       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_gpio_pins
+                0x00000000       0x4c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_i2c_pins
+                0x00000000       0xb0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_rtc_pins
+                0x00000000       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_uart_pins
+                0x00000000       0x1c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_tsi_pins
+                0x00000000       0x18 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_spi_pins
+                0x00000000       0x54 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_tpm_pins
+                0x00000000       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_cmp_pins
+                0x00000000       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_i2s_pins
+                0x00000000       0x48 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_lcd_pins
+                0x00000000       0x64 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text.configure_dac_pins
+                0x00000000       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .text.BOARD_InitRtcOsc
+                0x00000000        0x2 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .text.usb_host_board_init
+                0x00000000        0x8 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .rodata.g_defaultClockConfigVlpr
+                0x00000000       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.DbgConsole_DeInit
+                0x00000000       0x30 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text._write   0x00000000       0x2c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text._read    0x00000000       0x28 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.debug_putchar
+                0x00000000       0x20 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.debug_getchar
+                0x00000000       0x28 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.debug_scanf
+                0x00000000       0x5c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text.scan_ignore_white_space
+                0x00000000       0x22 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text._sputc   0x00000000        0xa CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text.scan_prv
+                0x00000000      0x30a CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000      0x134 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .text          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+ .data          0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .text.USB_Class_Deinit
+                0x00000000       0x18 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .text.USB_Class_Periodic_Task
+                0x00000000        0x2 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .text.USB_Class_HID_Deinit
+                0x00000000       0x38 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .text.USB_Class_HID_Cancel
+                0x00000000       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .text.USB_Class_HID_Recv_Data
+                0x00000000       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .text.usb_device_deinit
+                0x00000000       0x28 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .text.usb_device_unregister_service
+                0x00000000       0x52 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .text.usb_device_deinit_endpoint
+                0x00000000       0x36 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .text.usb_device_cancel_transfer
+                0x00000000       0x3e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Framework_Reset
+                0x00000000        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Gpio_init
+                0x00000000        0x8 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Gpio_set_functionality
+                0x00000000        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Gpio_set_value
+                0x00000000        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Gpio_deinit
+                0x00000000        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Task_create
+                0x00000000       0x2c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Task_delete
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_create
+                0x00000000       0x28 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_destroy
+                0x00000000       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_MsgQ_create
+                0x00000000       0x34 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_MsgQ_destroy
+                0x00000000       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Sem_create
+                0x00000000       0x24 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Sem_destroy
+                0x00000000       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_check_bit
+                0x00000000        0xc ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_set
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_clear
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Event_wait
+                0x00000000       0x36 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Sem_post
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_Sem_wait
+                0x00000000       0x22 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_MsgQ_recv
+                0x00000000       0x24 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_MsgQ_send
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text.OS_MsgQ_Is_Empty
+                0x00000000        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_SemaCreate
+                0x00000000        0xe ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_SemaPost
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_SemaDestroy
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventCreate
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventGetFlags
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventSet
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventClear
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventDestroy
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskCreate
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskDestroy
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskYield
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskGetHandler
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskGetPriority
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TaskSetPriority
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_MsgQCreate
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_MsgQPut
+                0x00000000       0x70 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_MsgQDestroy
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_MemAlloc
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_SemaWait
+                0x00000000       0x68 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_MsgQGet
+                0x00000000       0x78 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_EventWait
+                0x00000000       0x82 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_TimeDelay
+                0x00000000       0x1c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text.OSA_PollAllOtherTasks
+                0x00000000       0x2c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_FllStableDelay
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_GetSystickFreq
+                0x00000000       0x1c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_Init
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x00000000      0x11c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_BootToFee
+                0x00000000       0x4c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_BootToFei
+                0x00000000       0x44 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_BootToBlpi
+                0x00000000       0x48 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_BootToBlpe
+                0x00000000       0x64 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_SetMcgMode
+                0x00000000      0x160 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_OscDeinit
+                0x00000000       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_RtcOscInit
+                0x00000000       0x6c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text.CLOCK_SYS_RtcOscDeinit
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .rodata.mcgModeMatrix
+                0x00000000       0x40 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .bss.g_clockState
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .rodata.g_mcgBase
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .rodata.g_simBase
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetGateCmd.constprop.6
+                0x00000000       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.SIM_HAL_DisableClock.constprop.7
+                0x00000000       0x24 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_SetConfiguration
+                0x00000000       0x40 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetCoreClockFreq
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetBusClockFreq
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetExternalRefClock32kFreq
+                0x00000000       0x3c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetRtcOutFreq
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetFreq
+                0x00000000       0x88 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetCopFreq
+                0x00000000       0x12 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetRtcFreq
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetLptmrFreq
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetTpmFreq
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetTpmExternalFreq
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetI2cFreq
+                0x00000000       0x1a ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetSpiFreq
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetSaiFreq
+                0x00000000       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisablePortClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetPortGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableAdcClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableAdcClock
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetAdcGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableDacClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableDacClock
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetDacGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableSpiClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableSpiClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetSpiGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableI2cClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableI2cClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetI2cGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableLpsciClock
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetLpsciGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableUartClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetUartGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableTpmClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_DisableTpmClock
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_GetTpmGateCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.spiGateTable
+                0x00000000        0x2 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .bss.g_tpmClkFreq
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.i2cGateTable
+                0x00000000        0x2 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.tpmGateTable
+                0x00000000        0x3 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_Init
+                0x00000000       0x1a ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_SetBaudRateDivisor
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_Putchar9
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_Putchar10
+                0x00000000       0x26 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_Getchar9
+                0x00000000       0x16 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_Getchar10
+                0x00000000       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_SetIntMode
+                0x00000000       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_GetIntMode
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_SetTxDmaCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_SetRxDmaCmd
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_GetStatusFlag
+                0x00000000       0x24 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_ClearStatusFlag
+                0x00000000       0x44 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_PutReceiverInStandbyMode
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_ConfigIdleLineDetect
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text.LPSCI_HAL_SetMatchAddress
+                0x00000000       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .text.LPTMR_HAL_Init
+                0x00000000       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_TestOscFreq
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_GetAvailableFrdiv
+                0x00000000       0x70 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_CalculatePllDiv
+                0x00000000       0xe0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_GetPll0RefFreq
+                0x00000000        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_EnablePll0InFllMode
+                0x00000000       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_GetFixedFreqClk
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_EnableOsc0Monitor
+                0x00000000       0x1c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text.CLOCK_HAL_TrimInternalRefClk
+                0x00000000       0xc0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .rodata.freq_kHz.5379
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .bss.g_xtalRtcClkFreq
+                0x00000000        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .rodata.freqLow_kHz.5380
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_GetMcgMode
+                0x00000000       0x84 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetFeiMode
+                0x00000000       0x84 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetFeeMode
+                0x00000000       0xa8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetFbiMode
+                0x00000000       0xb0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetFbeMode
+                0x00000000       0xd0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetBlpiMode
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetBlpeMode
+                0x00000000       0x16 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text.CLOCK_HAL_SetPeeMode
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.CLOCK_HAL_GetOutDiv
+                0x00000000       0x2c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetAdcAlternativeTriggerCmd
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetAdcAlternativeTriggerCmd
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetAdcPreTriggerMode
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetAdcPreTriggerMode
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetAdcTriggerMode
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetAdcTriggerMode
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetAdcTriggerModeOneStep
+                0x00000000       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetUartOpenDrainCmd
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetUartOpenDrainCmd
+                0x00000000       0x2c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetTpmExternalClkPinSelMode
+                0x00000000       0x3c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetTpmExternalClkPinSelMode
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_SetTpmChSrcMode
+                0x00000000       0x2c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text.SIM_HAL_GetTpmChSrcMode
+                0x00000000       0x2c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .text          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .data          0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .bss           0x00000000        0x0 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_Init
+                0x00000000       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_SetBaudRateDivisor
+                0x00000000       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_Putchar
+                0x00000000        0x6 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_Putchar9
+                0x00000000       0x1a ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_Getchar
+                0x00000000        0x8 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_Getchar9
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_SetIntMode
+                0x00000000       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_GetIntMode
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_SetTxDmaCmd
+                0x00000000       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_SetRxDmaCmd
+                0x00000000       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_GetStatusFlag
+                0x00000000       0x24 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_ClearStatusFlag
+                0x00000000       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_PutReceiverInStandbyMode
+                0x00000000       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text.UART_HAL_ConfigIdleLineDetect
+                0x00000000       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x00000100         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0003fbf0         xr
+m_data           0x1fffe000         0x00008000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00000001                __ram_vector_table__ = 0x1
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libm.a
+                0x00000400                __stack_size__ = 0x400
+                0x00000400                __heap_size__ = 0x400
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+LOAD CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+START GROUP
+LOAD ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a
+LOAD ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libm.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x00000000                M_VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x100:0x0
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+                0x00000000                __isr_vector
+                0x000000c0                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x3834
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x60 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .text          0x00000470       0x78 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00000470                _mainCRTStartup
+                0x00000470                _start
+ .text          0x000004e8       0x18 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+                0x000004e8                Reset_Handler
+                0x000004f8                I2C0_IRQHandler
+                0x000004f8                HardFault_Handler
+                0x000004f8                SysTick_Handler
+                0x000004f8                PendSV_Handler
+                0x000004f8                NMI_Handler
+                0x000004f8                PORTC_PORTD_IRQHandler
+                0x000004f8                I2C1_IRQHandler
+                0x000004f8                UART1_IRQHandler
+                0x000004f8                DMA2_IRQHandler
+                0x000004f8                TPM0_IRQHandler
+                0x000004f8                I2S0_IRQHandler
+                0x000004f8                LLWU_IRQHandler
+                0x000004f8                TSI0_IRQHandler
+                0x000004f8                UART0_IRQHandler
+                0x000004f8                ADC0_IRQHandler
+                0x000004f8                SPI1_IRQHandler
+                0x000004f8                DefaultISR
+                0x000004f8                TPM2_IRQHandler
+                0x000004f8                RTC_IRQHandler
+                0x000004f8                LCD_IRQHandler
+                0x000004f8                RTC_Seconds_IRQHandler
+                0x000004f8                MCG_IRQHandler
+                0x000004f8                UART2_IRQHandler
+                0x000004f8                Reserved20_IRQHandler
+                0x000004f8                USB0_IRQHandler
+                0x000004f8                PIT_IRQHandler
+                0x000004f8                SVC_Handler
+                0x000004f8                DMA3_IRQHandler
+                0x000004f8                DMA0_IRQHandler
+                0x000004f8                DAC0_IRQHandler
+                0x000004f8                TPM1_IRQHandler
+                0x000004f8                LVD_LVW_IRQHandler
+                0x000004f8                SPI0_IRQHandler
+                0x000004f8                PORTA_IRQHandler
+                0x000004f8                FTFA_IRQHandler
+                0x000004f8                LPTMR0_IRQHandler
+                0x000004f8                CMP0_IRQHandler
+                0x000004f8                DMA1_IRQHandler
+ .text          0x00000500        0xe /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                0x00000500                strlen
+ *fill*         0x0000050e        0x2 
+ .text          0x00000510       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                0x00000510                __gnu_thumb1_case_uqi
+ .text          0x00000524       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+                0x00000524                __gnu_thumb1_case_uhi
+ .text          0x00000538      0x114 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+                0x00000538                __udivsi3
+                0x00000538                __aeabi_uidiv
+                0x00000644                __aeabi_uidivmod
+ .text          0x0000064c      0x1d4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+                0x0000064c                __aeabi_idiv
+                0x0000064c                __divsi3
+                0x00000818                __aeabi_idivmod
+ .text          0x00000820        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x00000820                __aeabi_ldiv0
+                0x00000820                __aeabi_idiv0
+ *(.text*)
+ .text._sbrk    0x00000824       0x38 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+                0x00000824                _sbrk
+ .text.move_mouse
+                0x0000085c       0xb0 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .text.USB_App_Class_Callback
+                0x0000090c       0x8c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+                0x0000090c                USB_App_Class_Callback
+ .text.USB_App_Device_Callback
+                0x00000998       0x34 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+                0x00000998                USB_App_Device_Callback
+ .text.led_init
+                0x000009cc       0x5c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+                0x000009cc                led_init
+ .text.APP_init
+                0x00000a28       0x64 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+                0x00000a28                APP_init
+ .text.startup.main
+                0x00000a8c       0x1e CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+                0x00000a8c                main
+ *fill*         0x00000aaa        0x2 
+ .text.USB_Desc_Get_Interface
+                0x00000aac       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000aac                USB_Desc_Get_Interface
+ .text.USB_Desc_Set_Interface
+                0x00000ac0       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000ac0                USB_Desc_Set_Interface
+ .text.USB_Set_Configuration
+                0x00000ad4        0x4 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000ad4                USB_Set_Configuration
+ .text.USB_Desc_Get_Descriptor
+                0x00000ad8       0x9c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000ad8                USB_Desc_Get_Descriptor
+ .text.USB_Desc_Get_Entity
+                0x00000b74       0x28 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000b74                USB_Desc_Get_Entity
+ .text.USB_Desc_Set_Speed
+                0x00000b9c       0x40 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x00000b9c                USB_Desc_Set_Speed
+ .text.hardware_init
+                0x00000bdc       0x1a CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+                0x00000bdc                hardware_init
+ *fill*         0x00000bf6        0x2 
+ .text.configure_lpsci_pins
+                0x00000bf8       0x1c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+                0x00000bf8                configure_lpsci_pins
+ .text.BOARD_InitOsc0
+                0x00000c14       0x2c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000c14                BOARD_InitOsc0
+ .text.BOARD_ClockInit
+                0x00000c40       0x50 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000c40                BOARD_ClockInit
+ .text.dbg_uart_init
+                0x00000c90       0x24 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000c90                dbg_uart_init
+ .text.usb_device_board_init
+                0x00000cb4        0x8 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000cb4                usb_device_board_init
+ .text.debug_putc
+                0x00000cbc       0x28 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.DbgConsole_Init
+                0x00000ce4      0x104 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x00000ce4                DbgConsole_Init
+ .text.debug_printf
+                0x00000de8       0x38 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x00000de8                debug_printf
+ .text.mknumstr
+                0x00000e20       0x84 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text.fput_pad.isra.0
+                0x00000ea4       0x28 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text._doprint
+                0x00000ecc      0x3dc CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+                0x00000ecc                _doprint
+ .text.SystemInit
+                0x000012a8      0x124 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+                0x000012a8                SystemInit
+ .text.init_data_bss
+                0x000013cc       0x7c CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+                0x000013cc                init_data_bss
+ .text.USB_Class_Init
+                0x00001448       0x3c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x00001448                USB_Class_Init
+ .text.USB_Class_Send_Data
+                0x00001484       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x00001484                USB_Class_Send_Data
+ .text.USB_Class_Get_Status
+                0x00001496       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x00001496                USB_Class_Get_Status
+ .text.USB_Class_Get_Class_Handle
+                0x000014a8       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x000014a8                USB_Class_Get_Class_Handle
+ .text.USB_Class_Get_Ctrler_Handle
+                0x000014c4        0xc ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x000014c4                USB_Class_Get_Ctrler_Handle
+ .text.USB_Service_Hid_IN
+                0x000014d0       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x000014d0                USB_Service_Hid_IN
+ .text.USB_Service_Hid_OUT
+                0x000014f0       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x000014f0                USB_Service_Hid_OUT
+ .text.USB_Class_Hid_Event
+                0x00001510      0x1c4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x00001510                USB_Class_Hid_Event
+ .text.USB_HID_Requests
+                0x000016d4       0x44 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x000016d4                USB_HID_Requests
+ .text.USB_Hid_Free_Handle
+                0x00001718       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .text.USB_Class_HID_Init
+                0x00001734       0xd0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x00001734                USB_Class_HID_Init
+ .text.USB_Class_HID_Send_Data
+                0x00001804       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x00001804                USB_Class_HID_Send_Data
+ .text.USB_Class_HID_Get_Speed
+                0x00001816       0x16 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x00001816                USB_Class_HID_Get_Speed
+ .text._usb_device_call_service_internal
+                0x0000182c       0x4c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x0000182c                _usb_device_call_service_internal
+ .text._usb_device_call_service
+                0x00001878       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001878                _usb_device_call_service
+ .text.usb_device_set_address
+                0x00001898       0x14 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001898                usb_device_set_address
+ .text.usb_device_get_status
+                0x000018ac       0x3e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x000018ac                usb_device_get_status
+ .text.usb_device_set_status
+                0x000018ea       0x36 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x000018ea                usb_device_set_status
+ .text.usb_device_init
+                0x00001920       0xe8 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001920                usb_device_init
+ .text.usb_device_postinit
+                0x00001a08       0x12 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001a08                usb_device_postinit
+ .text.usb_device_init_endpoint
+                0x00001a1a       0x38 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001a1a                usb_device_init_endpoint
+ .text.usb_device_register_service
+                0x00001a52       0x70 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001a52                usb_device_register_service
+ .text.usb_device_recv_data
+                0x00001ac2       0x6e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001ac2                usb_device_recv_data
+ .text.usb_device_send_data
+                0x00001b30       0x70 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001b30                usb_device_send_data
+ .text.usb_device_unstall_endpoint
+                0x00001ba0       0x34 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001ba0                usb_device_unstall_endpoint
+ .text.usb_device_stall_endpoint
+                0x00001bd4       0x1a ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001bd4                usb_device_stall_endpoint
+ .text.usb_device_register_application_notify
+                0x00001bee       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001bee                usb_device_register_application_notify
+ .text.usb_device_register_vendor_class_request_notify
+                0x00001bfe       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001bfe                usb_device_register_vendor_class_request_notify
+ .text.usb_device_register_desc_request_notify
+                0x00001c0e       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001c0e                usb_device_register_desc_request_notify
+ .text.usb_device_reset
+                0x00001c1e       0x18 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x00001c1e                usb_device_reset
+ .text.USB_Strd_Req_Get_Config
+                0x00001c36        0xc ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Get_Interface
+                0x00001c42       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Set_Interface
+                0x00001c62       0x4c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Get_Descriptor
+                0x00001cae       0x24 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Sync_Frame
+                0x00001cd2       0x1a ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Get_Status
+                0x00001cec       0x54 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Set_Config
+                0x00001d40       0x54 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Set_Address
+                0x00001d94       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Strd_Req_Feature
+                0x00001db0       0x88 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .text.USB_Reset_Service
+                0x00001e38       0x46 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+                0x00001e38                USB_Reset_Service
+ .text.USB_Control_Service_Handler
+                0x00001e7e       0x44 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+                0x00001e7e                USB_Control_Service_Handler
+ *fill*         0x00001ec2        0x2 
+ .text.USB_Control_Service
+                0x00001ec4      0x124 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+                0x00001ec4                USB_Control_Service
+ .text._usb_khci_reset_ep_state
+                0x00001fe8       0xc4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .text.usb_dci_khci_free_xd
+                0x000020ac       0x2e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x000020ac                usb_dci_khci_free_xd
+ .text.usb_dci_khci_get_xd
+                0x000020da       0x40 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x000020da                usb_dci_khci_get_xd
+ *fill*         0x0000211a        0x2 
+ .text._usb_khci_next_setup_token_prep
+                0x0000211c       0x78 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .text.usb_dci_khci_init_xd
+                0x00002194       0x40 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002194                usb_dci_khci_init_xd
+ .text.usb_dci_khci_preinit
+                0x000021d4       0x30 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x000021d4                usb_dci_khci_preinit
+ .text.usb_dci_khci_init
+                0x00002204      0x138 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002204                usb_dci_khci_init
+ .text.usb_dci_khci_postinit
+                0x0000233c       0x54 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x0000233c                usb_dci_khci_postinit
+ .text.usb_dci_khci_init_endpoint
+                0x00002390       0xd4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002390                usb_dci_khci_init_endpoint
+ .text.usb_dci_khci_send
+                0x00002464       0xbc ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002464                usb_dci_khci_send
+ .text.usb_dci_khci_recv
+                0x00002520      0x11c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002520                usb_dci_khci_recv
+ .text.usb_dci_khci_unstall_endpoint
+                0x0000263c       0xdc ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x0000263c                usb_dci_khci_unstall_endpoint
+ .text.usb_dci_khci_cancel
+                0x00002718       0x5a ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002718                usb_dci_khci_cancel
+ *fill*         0x00002772        0x2 
+ .text.usb_dci_khci_deinit_endpoint
+                0x00002774       0x58 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002774                usb_dci_khci_deinit_endpoint
+ .text.usb_dci_khci_stall_endpoint
+                0x000027cc       0x98 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x000027cc                usb_dci_khci_stall_endpoint
+ .text._usb_khci_isr
+                0x00002864      0x358 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .text.usb_dci_khci_set_addr
+                0x00002bbc       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002bbc                usb_dci_khci_set_addr
+ .text.usb_dci_khci_shutdown
+                0x00002bdc       0x4e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002bdc                usb_dci_khci_shutdown
+ .text.usb_dci_khci_get_endpoint_status
+                0x00002c2a       0x14 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002c2a                usb_dci_khci_get_endpoint_status
+ .text.usb_dci_khci_set_endpoint_status
+                0x00002c3e       0x3e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002c3e                usb_dci_khci_set_endpoint_status
+ .text.usb_dci_khci_set_status
+                0x00002c7c       0x36 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002c7c                usb_dci_khci_set_status
+ .text.usb_dci_khci_get_status
+                0x00002cb2       0x48 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002cb2                usb_dci_khci_get_status
+ .text.usb_dci_khci_reset
+                0x00002cfa       0x36 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x00002cfa                usb_dci_khci_reset
+ .text.usb_dev_soc_init
+                0x00002d30       0x7c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+                0x00002d30                usb_dev_soc_init
+ .text.soc_get_usb_dev_int_level
+                0x00002dac        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+                0x00002dac                soc_get_usb_dev_int_level
+ .text.soc_get_usb_vector_number
+                0x00002db0        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002db0                soc_get_usb_vector_number
+ *fill*         0x00002dbe        0x2 
+ .text.soc_get_usb_base_address
+                0x00002dc0       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002dc0                soc_get_usb_base_address
+ .text.OS_Mutex_create
+                0x00002dd0       0x20 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002dd0                OS_Mutex_create
+ .text.OS_Mutex_destroy
+                0x00002df0       0x1c ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002df0                OS_Mutex_destroy
+ .text.OS_Mutex_lock
+                0x00002e0c       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002e0c                OS_Mutex_lock
+ .text.OS_Mutex_unlock
+                0x00002e1c        0xe ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+                0x00002e1c                OS_Mutex_unlock
+ *fill*         0x00002e2a        0x2 
+ .text.OSA_TimeInit
+                0x00002e2c       0x44 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002e2c                OSA_TimeInit
+ .text.OSA_TimeDiff
+                0x00002e70       0x12 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002e70                OSA_TimeDiff
+ .text.OSA_MutexCreate
+                0x00002e82        0xe ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002e82                OSA_MutexCreate
+ .text.OSA_MutexUnlock
+                0x00002e90       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002e90                OSA_MutexUnlock
+ .text.OSA_MutexDestroy
+                0x00002ea4        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002ea4                OSA_MutexDestroy
+ .text.task_init
+                0x00002ea8       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002ea8                task_init
+ .text.OSA_MemAllocZero
+                0x00002ee0        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002ee0                OSA_MemAllocZero
+ .text.OSA_MemFree
+                0x00002eec        0xa ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002eec                OSA_MemFree
+ *fill*         0x00002ef6        0x2 
+ .text.OSA_TimeGetMsec
+                0x00002ef8       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002ef8                OSA_TimeGetMsec
+ .text.OSA_MutexLock
+                0x00002f08       0x64 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f08                OSA_MutexLock
+ .text.OSA_InstallIntHandler
+                0x00002f6c        0xa ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f6c                OSA_InstallIntHandler
+ .text.OSA_EnterCritical
+                0x00002f76        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f76                OSA_EnterCritical
+ .text.OSA_ExitCritical
+                0x00002f82        0xc ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f82                OSA_ExitCritical
+ .text.OSA_Init
+                0x00002f8e        0xe ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f8e                OSA_Init
+ .text.OSA_Start
+                0x00002f9c       0x24 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00002f9c                OSA_Start
+ .text.CLOCK_SYS_BootToPee
+                0x00002fc0       0x84 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00002fc0                CLOCK_SYS_BootToPee
+ .text.CLOCK_SYS_SetOscerConfigration
+                0x00003044       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00003044                CLOCK_SYS_SetOscerConfigration
+ .text.CLOCK_SYS_OscInit
+                0x0000306c       0x7c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x0000306c                CLOCK_SYS_OscInit
+ .text.SIM_HAL_EnableClock.constprop.8
+                0x000030e8       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_SetSimConfigration
+                0x00003110       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00003110                CLOCK_SYS_SetSimConfigration
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x00003148       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00003148                CLOCK_SYS_GetSystemClockFreq
+ .text.CLOCK_SYS_GetFlashClockFreq
+                0x00003168       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00003168                CLOCK_SYS_GetFlashClockFreq
+ .text.CLOCK_SYS_GetPllFllClockFreq
+                0x00003180       0x30 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00003180                CLOCK_SYS_GetPllFllClockFreq
+ .text.CLOCK_SYS_GetOsc0ExternalRefClockFreq
+                0x000031b0       0x28 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x000031b0                CLOCK_SYS_GetOsc0ExternalRefClockFreq
+ .text.CLOCK_SYS_GetUsbfsFreq
+                0x000031d8       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x000031d8                CLOCK_SYS_GetUsbfsFreq
+ .text.CLOCK_SYS_GetLpsciFreq
+                0x000031f8       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x000031f8                CLOCK_SYS_GetLpsciFreq
+ .text.CLOCK_SYS_GetUartFreq
+                0x0000322c       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x0000322c                CLOCK_SYS_GetUartFreq
+ .text.CLOCK_SYS_EnablePortClock
+                0x0000323c       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x0000323c                CLOCK_SYS_EnablePortClock
+ .text.CLOCK_SYS_EnableLpsciClock
+                0x0000324c       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x0000324c                CLOCK_SYS_EnableLpsciClock
+ .text.CLOCK_SYS_EnableUartClock
+                0x0000325c       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x0000325c                CLOCK_SYS_EnableUartClock
+ .text.INT_SYS_InstallHandler
+                0x0000326c       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+                0x0000326c                INT_SYS_InstallHandler
+ .text.INT_SYS_EnableIRQGlobal
+                0x00003280       0x18 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+                0x00003280                INT_SYS_EnableIRQGlobal
+ .text.INT_SYS_DisableIRQGlobal
+                0x00003298       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+                0x00003298                INT_SYS_DisableIRQGlobal
+ .text.LPSCI_HAL_SetBaudRate
+                0x000032a8       0xba ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x000032a8                LPSCI_HAL_SetBaudRate
+ .text.LPSCI_HAL_SetParityMode
+                0x00003362       0x1e ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00003362                LPSCI_HAL_SetParityMode
+ .text.LPSCI_HAL_SendDataPolling
+                0x00003380       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00003380                LPSCI_HAL_SendDataPolling
+ .text.LPSCI_HAL_ReceiveDataPolling
+                0x000033a0       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x000033a0                LPSCI_HAL_ReceiveDataPolling
+ .text.LPTMR_HAL_SetTimerWorkingMode
+                0x000033d6       0x3c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x000033d6                LPTMR_HAL_SetTimerWorkingMode
+ .text.LPTMR_HAL_SetPrescalerMode
+                0x00003412       0x20 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x00003412                LPTMR_HAL_SetPrescalerMode
+ *fill*         0x00003432        0x2 
+ .text.LPTMR_HAL_GetCounterValue
+                0x00003434       0x14 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x00003434                LPTMR_HAL_GetCounterValue
+ .text.CLOCK_HAL_PrepareOsc
+                0x00003448       0x1e ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003448                CLOCK_HAL_PrepareOsc
+ .text.CLOCK_HAL_TestFllExternalRefFreq
+                0x00003466       0x36 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003466                CLOCK_HAL_TestFllExternalRefFreq
+ .text.CLOCK_HAL_GetFllRefClk
+                0x0000349c       0x44 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x0000349c                CLOCK_HAL_GetFllRefClk
+ .text.CLOCK_HAL_TestFllFreq
+                0x000034e0       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x000034e0                CLOCK_HAL_TestFllFreq
+ .text.CLOCK_HAL_GetFllClk
+                0x00003518       0x40 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003518                CLOCK_HAL_GetFllClk
+ .text.CLOCK_HAL_UpdateFastClkInternalRefDiv
+                0x00003558       0x60 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003558                CLOCK_HAL_UpdateFastClkInternalRefDiv
+ .text.CLOCK_HAL_UpdateInternalRefClk
+                0x000035b8       0x52 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x000035b8                CLOCK_HAL_UpdateInternalRefClk
+ *fill*         0x0000360a        0x2 
+ .text.CLOCK_HAL_GetPll0Clk
+                0x0000360c       0x48 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x0000360c                CLOCK_HAL_GetPll0Clk
+ .text.CLOCK_HAL_GetInternalRefClk
+                0x00003654       0x40 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003654                CLOCK_HAL_GetInternalRefClk
+ .text.CLOCK_HAL_GetOutClk
+                0x00003694       0x44 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00003694                CLOCK_HAL_GetOutClk
+ .text.CLOCK_HAL_SetOsc0Mode
+                0x000036d8       0x24 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x000036d8                CLOCK_HAL_SetOsc0Mode
+ .text.CLOCK_HAL_SetPbeMode
+                0x000036fc       0x88 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+                0x000036fc                CLOCK_HAL_SetPbeMode
+ .text.OSC_HAL_SetCapacitor
+                0x00003784        0xe ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+                0x00003784                OSC_HAL_SetCapacitor
+ *fill*         0x00003792        0x2 
+ .text.CLOCK_HAL_SetOutDiv
+                0x00003794       0x1c ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+                0x00003794                CLOCK_HAL_SetOutDiv
+ .text.UART_HAL_SetBaudRate
+                0x000037b0       0x34 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000037b0                UART_HAL_SetBaudRate
+ .text.UART_HAL_SetParityMode
+                0x000037e4       0x1e ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000037e4                UART_HAL_SetParityMode
+ .text.UART_HAL_SendDataPolling
+                0x00003802       0x22 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x00003802                UART_HAL_SendDataPolling
+ .text.UART_HAL_ReceiveDataPolling
+                0x00003824       0x38 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x00003824                UART_HAL_ReceiveDataPolling
+ .text.calloc   0x0000385c       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+                0x0000385c                calloc
+ .text.__errno  0x00003870        0xc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+                0x00003870                __errno
+ .text.exit     0x0000387c       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x0000387c                exit
+ .text.__libc_init_array
+                0x000038a8       0x4c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x000038a8                __libc_init_array
+ .text.free     0x000038f4       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+                0x000038f4                free
+ .text.memcpy   0x00003908       0x12 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                0x00003908                memcpy
+ .text.memset   0x0000391a       0x10 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x0000391a                memset
+ .text._calloc_r
+                0x0000392a       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+                0x0000392a                _calloc_r
+ *fill*         0x00003946        0x2 
+ .text._free_r  0x00003948       0x98 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                0x00003948                _free_r
+ .text._malloc_r
+                0x000039e0       0xc0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000039e0                _malloc_r
+ .text._sbrk_r  0x00003aa0       0x24 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                0x00003aa0                _sbrk_r
+ .text.__malloc_lock
+                0x00003ac4        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+                0x00003ac4                __malloc_lock
+ .text.__malloc_unlock
+                0x00003ac6        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+                0x00003ac6                __malloc_unlock
+ .text._exit    0x00003ac8        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x00003ac8                _exit
+ *(.rodata)
+ .rodata        0x00003acc        0xc CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ *(.rodata*)
+ .rodata.str1.1
+                0x00003ad8       0x16 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .rodata.g_defaultClockConfigRun
+                0x00003aee       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00003aee                g_defaultClockConfigRun
+ .rodata.str1.1
+                0x00003b02       0x5e ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .rodata.g_standard_request
+                0x00003b60       0x34 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .rodata.g_validate_request
+                0x00003b94       0x27 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ *fill*         0x00003bbb        0x1 
+ .rodata._usb_khci_dev_function_table
+                0x00003bbc       0x50 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+                0x00003bbc                _usb_khci_dev_function_table
+ .rodata.g_oscBase
+                0x00003c0c        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+                0x00003c0c                g_oscBase
+ .rodata.portGateTable
+                0x00003c10        0x5 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.uartGateTable
+                0x00003c15        0x3 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.fllFactorTable.5344
+                0x00003c18       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .rodata._global_impure_ptr
+                0x00003c28        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x00003c28                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00003c2c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00003c2c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00003c2c        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ *(.init)
+ .init          0x00003c2c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00003c2c                _init
+ .init          0x00003c30        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x00003c38        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00003c38                _fini
+ .fini          0x00003c3c        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00003c44                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00003c44        0x0
+ .vfp11_veneer  0x00003c44        0x0 linker stubs
+
+.v4_bx          0x00003c44        0x0
+ .v4_bx         0x00003c44        0x0 linker stubs
+
+.iplt           0x00003c44        0x0
+ .iplt          0x00003c44        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00003c44        0x8
+                0x00003c44                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00003c44        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00003c4c                __exidx_end = .
+
+.rel.dyn        0x00003c4c        0x0
+ .rel.iplt      0x00003c4c        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.ctors          0x00003c4c        0x0
+                0x00003c4c                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00003c4c                __CTOR_END__ = .
+
+.dtors          0x00003c4c        0x0
+                0x00003c4c                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00003c4c                __DTOR_END__ = .
+
+.preinit_array  0x00003c4c        0x0
+                0x00003c4c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00003c4c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00003c4c        0x4
+                0x00003c4c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00003c4c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x00003c50                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00003c50        0x4
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00003c50        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x00003c54                __etext = .
+                0x00003c54                __DATA_ROM = .
+
+.mtb            0x1fffe000        0x0
+                0x1fffe000                . = ALIGN (0x8)
+                0x1fffe000                _mtb_start = .
+ *(.mtb_buf)
+                0x1fffe000                . = ALIGN (0x8)
+                0x1fffe000                _mtb_end = .
+
+.interrupts_ram
+                0x1fffe000      0x100
+                0x1fffe000                . = ALIGN (0x4)
+                0x1fffe000                __VECTOR_RAM__ = .
+                0x1fffe000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x1fffe100                . = (. + M_VECTOR_RAM_SIZE)
+ *fill*         0x1fffe000      0x100 
+                0x1fffe100                . = ALIGN (0x4)
+                0x1fffe100                __interrupts_ram_end__ = .
+                0x00000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x00000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x1fffe100      0x1f0 load address 0x00003c54
+                0x1fffe100                . = ALIGN (0x4)
+                0x1fffe100                __DATA_RAM = .
+                0x1fffe100                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.g_ep     0x1fffe100        0x8 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe100                g_ep
+ .data.g_usb_str_0
+                0x1fffe108        0x4 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe108                g_usb_str_0
+ .data.g_config_descriptor
+                0x1fffe10c       0x22 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe10c                g_config_descriptor
+ .data.g_report_descriptor
+                0x1fffe12e       0x34 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe12e                g_report_descriptor
+ .data.g_usb_str_n
+                0x1fffe162       0x22 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe162                g_usb_str_n
+ .data.g_usb_str_1
+                0x1fffe184       0x3a CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe184                g_usb_str_1
+ *fill*         0x1fffe1be        0x2 
+ .data.g_std_descriptors
+                0x1fffe1c0       0x24 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe1c0                g_std_descriptors
+ .data.g_usb_desc_ep
+                0x1fffe1e4        0x8 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe1e4                g_usb_desc_ep
+ .data.g_usb_str_2
+                0x1fffe1ec       0x24 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe1ec                g_usb_str_2
+ .data.g_device_descriptor
+                0x1fffe210       0x12 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe210                g_device_descriptor
+ *fill*         0x1fffe222        0x2 
+ .data.g_languages
+                0x1fffe224        0xc CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe224                g_languages
+ .data.g_desc_callback
+                0x1fffe230       0x14 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe230                g_desc_callback
+ .data.g_string_desc_size
+                0x1fffe244        0x4 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe244                g_string_desc_size
+ .data.g_std_desc_size
+                0x1fffe248        0x9 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe248                g_std_desc_size
+ *fill*         0x1fffe251        0x3 
+ .data.g_usb_lang
+                0x1fffe254        0xc CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe254                g_usb_lang
+ .data.g_string_descriptors
+                0x1fffe260       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe260                g_string_descriptors
+ .data.g_usb_dec_class
+                0x1fffe270        0xc CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+                0x1fffe270                g_usb_dec_class
+ .data.SystemCoreClock
+                0x1fffe27c        0x4 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+                0x1fffe27c                SystemCoreClock
+ .data.g_slowInternalRefClkFreq
+                0x1fffe280        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x1fffe280                g_slowInternalRefClkFreq
+ .data.g_fastInternalRefClkFreq
+                0x1fffe284        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x1fffe284                g_fastInternalRefClkFreq
+ .data.impure_data
+                0x1fffe288       0x60 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x1fffe2e8        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x1fffe2e8                _impure_ptr
+ *(.jcr*)
+ .jcr           0x1fffe2ec        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .jcr           0x1fffe2ec        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+                0x1fffe2f0                . = ALIGN (0x4)
+                0x1fffe2f0                __data_end__ = .
+                0x00003e44                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00040000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x00000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.igot.plt       0x1fffe2f0        0x0 load address 0x00003e44
+ .igot.plt      0x1fffe2f0        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.bss            0x1fffe400      0x888 load address 0x00004000
+                0x1fffe400                . = ALIGN (0x4)
+                0x1fffe400                __START_BSS = .
+                0x1fffe400                __bss_start__ = .
+ *(.bss)
+ .bss           0x1fffe400       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ *(.bss*)
+ .bss.heap_end.5297
+                0x1fffe41c        0x4 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .bss.y.8350    0x1fffe420        0x1 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ *fill*         0x1fffe421        0x3 
+ .bss.g_mouse   0x1fffe424       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .bss.x.8349    0x1fffe434        0x1 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .bss.dir.8356  0x1fffe435        0x1 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .bss.g_alternate_interface
+                0x1fffe436        0x1 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ *fill*         0x1fffe437        0x1 
+ .bss.g_usb_if  0x1fffe438       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .bss.s_debugConsole
+                0x1fffe448       0x10 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .bss.usb_class_object
+                0x1fffe458       0x10 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .bss.g_class_handle
+                0x1fffe468        0x8 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+                0x1fffe468                g_class_handle
+ .bss.g_hid_class
+                0x1fffe470       0x44 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+                0x1fffe470                g_hid_class
+ *fill*         0x1fffe4b4        0xc 
+ .bss.g_usb_dev_data
+                0x1fffe4c0       0x60 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+                0x1fffe4c0                g_usb_dev_data
+ .bss.g_usb_dev
+                0x1fffe520       0xa4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .bss.g_khci_dev
+                0x1fffe5c4       0xb4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .bss.g_khci_data
+                0x1fffe678      0x1a0 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .bss.bdt       0x1fffe818        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ *fill*         0x1fffe81c      0x1e4 
+ .bss.g_khci_bdt_buffer
+                0x1fffea00      0x200 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+                0x1fffea00                g_khci_bdt_buffer
+ .bss._usb_khci_dev_swap_buf_ptr
+                0x1fffec00        0x4 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .bss.g_zero_pkt_send
+                0x1fffec04        0x1 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ *fill*         0x1fffec05        0x3 
+ .bss.g_taskListHead
+                0x1fffec08       0x10 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .bss.g_curTask
+                0x1fffec18        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .bss.g_freeTaskControlBlock
+                0x1fffec1c        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .bss.g_taskControlBlockPool
+                0x1fffec20       0x50 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .bss.g_usbClkInFreq
+                0x1fffec70        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x1fffec70                g_usbClkInFreq
+ .bss.g_interruptDisableCount
+                0x1fffec74        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+                0x1fffec74                g_interruptDisableCount
+ .bss.g_xtal0ClkFreq
+                0x1fffec78        0x4 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x1fffec78                g_xtal0ClkFreq
+ .bss.__malloc_sbrk_start
+                0x1fffec7c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x1fffec7c                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x1fffec80        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x1fffec80                __malloc_free_list
+ *(COMMON)
+ COMMON         0x1fffec84        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                0x1fffec84                errno
+                0x1fffec88                . = ALIGN (0x4)
+                0x1fffec88                __bss_end__ = .
+                0x1fffec88                __END_BSS = .
+
+.heap           0x1fffec88      0x400 load address 0x00004888
+                0x1fffec88                . = ALIGN (0x8)
+                0x1fffec88                __end__ = .
+                0x1fffec88                PROVIDE (end, .)
+                0x1fffec88                __HeapBase = .
+                0x1ffff088                . = (. + HEAP_SIZE)
+ *fill*         0x1fffec88      0x400 
+                0x1ffff088                __HeapLimit = .
+
+.stack          0x1ffff088      0x400 load address 0x00004c88
+                0x1ffff088                . = ALIGN (0x8)
+                0x1ffff488                . = (. + STACK_SIZE)
+ *fill*         0x1ffff088      0x400 
+                0x20006000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x20005c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20006000                PROVIDE (__stack, __StackTop)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .ARM.attributes
+                0x00000097       0x1b CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+ .ARM.attributes
+                0x000000b2       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .ARM.attributes
+                0x000000e4       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .ARM.attributes
+                0x00000116       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+ .ARM.attributes
+                0x00000148       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .ARM.attributes
+                0x0000017a       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .ARM.attributes
+                0x000001ac       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .ARM.attributes
+                0x000001de       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .ARM.attributes
+                0x00000210       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .ARM.attributes
+                0x00000242       0x32 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+ .ARM.attributes
+                0x00000274       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .ARM.attributes
+                0x000002a6       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .ARM.attributes
+                0x000002d8       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .ARM.attributes
+                0x0000030a       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .ARM.attributes
+                0x0000033c       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+ .ARM.attributes
+                0x0000036e       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .ARM.attributes
+                0x000003a0       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+ .ARM.attributes
+                0x000003d2       0x32 ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .ARM.attributes
+                0x00000404       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .ARM.attributes
+                0x00000436       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .ARM.attributes
+                0x00000468       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .ARM.attributes
+                0x0000049a       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .ARM.attributes
+                0x000004cc       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+ .ARM.attributes
+                0x000004fe       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .ARM.attributes
+                0x00000530       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .ARM.attributes
+                0x00000562       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .ARM.attributes
+                0x00000594       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .ARM.attributes
+                0x000005c6       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+ .ARM.attributes
+                0x000005f8       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .ARM.attributes
+                0x0000062a       0x32 ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+ .ARM.attributes
+                0x0000065c       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x00000688       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000006b4       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000006e0       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000070c       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000738       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000764       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000790       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000007bc       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x000007e8       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000814       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000840       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000086c       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000888       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000008b4       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000008e0       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x000008fe       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x0000091c       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000093a       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000958       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000976       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000009a2       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x000009ce       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(release/dev_hid_my_mouse_bm.elf elf32-littlearm)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/usb_descriptor.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+ .comment       0x0000006e       0x6f CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_class.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_hid.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_framework.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(device_khci_interface.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(khci_dev.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(usb_dev_bsp.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../usb/usb_core/device/lib/bm/armgcc/MKL46Z4/release/libusbd_bm.a(adapter_sdk.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_interrupt_manager.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+ .comment       0x0000006e       0x6f ../../../../../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+
+.debug_frame    0x00000000      0x2ac
+ .debug_frame   0x00000000       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .debug_frame   0x00000028       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000048       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000070       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000009c       0x40 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000000dc       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000104       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000124       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x00000150       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000017c       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000001a8       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000001d4       0x30 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000204       0x48 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000024c       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000026c       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000028c       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
