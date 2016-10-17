@@ -53,6 +53,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "../../../../../../../../../platform/drivers/src/gpio"
   "../../../../../../../../../platform/drivers/src/pit"
   "../../../../../../../../../platform/drivers/src/dma"
+  "../../../../../../../../../platform/drivers/src"
   "../../../../../../../../../platform/system/inc"
   "../../../../../../../../../platform/drivers/src/uart"
   )
@@ -115,6 +116,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../../../../../../../../../platform/drivers/src/gpio"
   "../../../../../../../../../platform/drivers/src/pit"
   "../../../../../../../../../platform/drivers/src/dma"
+  "../../../../../../../../../platform/drivers/src"
   "../../../../../../../../../platform/system/inc"
   "../../../../../../../../../platform/drivers/src/uart"
   )

@@ -516,7 +516,9 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/devices/MKW40Z4/include/MKW40Z4_features.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/devices/fsl_device_registers.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/drivers/inc/fsl_gpio_driver.h
+CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/drivers/inc/fsl_i2c_master_driver.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/hal/inc/fsl_gpio_hal.h
+CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/hal/inc/fsl_i2c_hal.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/hal/inc/fsl_mcg_hal.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/hal/inc/fsl_mcg_hal_modes.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../../../platform/hal/inc/fsl_mcglite_hal.h
@@ -654,6 +656,7 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../board.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../gpio_pins.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: ../../../../../../../pin_mux.h
+CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/MKL46Z4.h
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/hardware_init.c
 
 CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/mouse.c.obj: ../../../../../../../../../platform/CMSIS/Include/core_cm0plus.h

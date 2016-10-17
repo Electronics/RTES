@@ -17,7 +17,7 @@ SET(CMAKE_STATIC_LIBRARY_SUFFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_PREFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_SUFFIX)
 
- 
+
 # CURRENT DIRECTORY
 SET(ProjDirPath ${CMAKE_CURRENT_SOURCE_DIR})
 
@@ -106,6 +106,7 @@ IF(CMAKE_BUILD_TYPE MATCHES Debug)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/gpio)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/pit)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/dma)
+    INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/system/inc)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/uart)
 ELSEIF(CMAKE_BUILD_TYPE MATCHES Release)
@@ -151,12 +152,13 @@ ELSEIF(CMAKE_BUILD_TYPE MATCHES Release)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/gpio)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/pit)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/dma)
+    INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/system/inc)
     INCLUDE_DIRECTORIES(${ProjDirPath}/../../../../../../../../../platform/drivers/src/uart)
 ENDIF()
 
 # ADD_EXECUTABLE
-ADD_EXECUTABLE(dev_hid_my_mouse_bm 
+ADD_EXECUTABLE(dev_hid_my_mouse_bm
     "${ProjDirPath}/../../../../../../../../../platform/utilities/src/fsl_misc_utilities.c"
     "${ProjDirPath}/../../../../../../../../../platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S"
     "${ProjDirPath}/../../mouse.c"

@@ -16,6 +16,7 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/devices/MKL46Z4/include/fsl_bitaccess.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/devices/MKL46Z4/include/MKL46Z4_features.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_gpio_hal.h \
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/MKL46Z4.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../pin_mux.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/system/inc/fsl_clock_manager.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_sim_hal.h \
@@ -27,7 +28,9 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_osc_hal.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/utilities/inc/fsl_debug_console.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/osa/inc/fsl_os_abstraction.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/osa/inc/fsl_os_abstraction_bm.h
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/osa/inc/fsl_os_abstraction_bm.h \
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_i2c_hal.h \
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/drivers/inc/fsl_i2c_master_driver.h
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../board.h:
 
@@ -61,6 +64,8 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_gpio_hal.h:
 
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/MKL46Z4.h:
+
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../pin_mux.h:
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/system/inc/fsl_clock_manager.h:
@@ -84,3 +89,7 @@ CMakeFiles/dev_hid_my_mouse_bm.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/osa/inc/fsl_os_abstraction.h:
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/osa/inc/fsl_os_abstraction_bm.h:
+
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/hal/inc/fsl_i2c_hal.h:
+
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/usb/device/hid/hid_my_mouse/bm/armgcc/../../../../../../../../../platform/drivers/inc/fsl_i2c_master_driver.h:
