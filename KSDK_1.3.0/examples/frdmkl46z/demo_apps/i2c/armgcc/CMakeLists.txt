@@ -95,6 +95,7 @@ ADD_EXECUTABLE(i2c
     "${ProjDirPath}/../../../../../platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S"
     "${ProjDirPath}/../main.c"
     "${ProjDirPath}/../accel_i2c.c"
+    "${ProjDirPath}/../touch.c"
     "${ProjDirPath}/../../../gpio_pins.c"
     "${ProjDirPath}/../../../gpio_pins.h"
     "${ProjDirPath}/../../../pin_mux.c"

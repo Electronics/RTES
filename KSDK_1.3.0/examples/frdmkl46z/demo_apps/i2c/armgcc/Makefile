@@ -204,6 +204,33 @@ home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.s:
 	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.s
 .PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.s
 
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.obj: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.obj
+
+# target to build an object file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.i: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.i
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.i
+
+# target to preprocess a source file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.i:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.i
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.i
+
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.s: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.s
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.s
+
+# target to generate assembly for a file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.s:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.s
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.s
+
 home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.obj: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
 
 .PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.obj
@@ -420,6 +447,9 @@ help:
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.obj"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.i"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.s"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.obj"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.i"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.s"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.obj"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.i"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.s"

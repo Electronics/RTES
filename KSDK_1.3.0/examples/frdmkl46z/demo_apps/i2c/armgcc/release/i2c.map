@@ -127,6 +127,16 @@ Discarded input sections
  .comment       0x00000000       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
  .ARM.attributes
                 0x00000000       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .text.touch_init
+                0x00000000       0x34 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .text.touch_read
+                0x00000000       0x2c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .comment       0x00000000       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
@@ -695,6 +705,7 @@ LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_m
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj

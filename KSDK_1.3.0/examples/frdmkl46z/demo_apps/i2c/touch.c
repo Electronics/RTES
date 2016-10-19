@@ -1,5 +1,7 @@
 #include "board.h"
 
+#define _BV(bit) (1U << bit)
+
 void touch_init() {
   SIM->SCGC5 |= _BV(10); // enable port B
   SIM->SCGC5 |= _BV(5); // Enable clock to TSI
