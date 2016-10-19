@@ -26,6 +26,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_C
   "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c" "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj"
+  "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c" "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj"
   "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c" "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj"
   "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c" "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj"
   "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c" "/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj"

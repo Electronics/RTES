@@ -46,28 +46,12 @@ Archive member included to satisfy reference by file (symbol)
                               /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_malloc_r)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
                               /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
-                              CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj (snprintf)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
                               CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj (strlen)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
                               /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o) (_svfprintf_r)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
                               /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (memcpy)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
-/home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
-                              /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
                               ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj) (__gnu_thumb1_case_uqi)
 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
@@ -98,17 +82,36 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .text._sbrk    0x00000000       0x38 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .text.assert_func
                 0x00000000       0x18 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .rodata.str1.1
                 0x00000000       0x3e CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .bss.heap_end.5297
+                0x00000000        0x4 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .comment       0x00000000       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
- .text.PRINTINT
-                0x00000000       0x1c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text.udelay   0x00000000        0xe CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text.read_i2c
+                0x00000000       0xb8 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text.write_i2c
+                0x00000000       0x64 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text.init_i2c
+                0x00000000       0x60 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .text.hardware_init
+                0x00000000       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .comment       0x00000000       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
@@ -157,10 +160,14 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.debug_putc
+                0x00000000       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .text.DbgConsole_DeInit
                 0x00000000       0x30 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .text._write   0x00000000       0x2c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .text._read    0x00000000       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .text.debug_printf
+                0x00000000       0x38 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .text.debug_putchar
                 0x00000000       0x20 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .text.debug_getchar
@@ -170,11 +177,20 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text.mknumstr
+                0x00000000       0x84 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .text.scan_ignore_white_space
                 0x00000000       0x22 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text.fput_pad.isra.0
+                0x00000000       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .text._doprint
+                0x00000000      0x3dc CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .text._sputc   0x00000000        0xa CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .text.scan_prv
                 0x00000000      0x30a CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .comment       0x00000000       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .text          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
  .data          0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
  .bss           0x00000000        0x0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
@@ -331,6 +347,8 @@ Discarded input sections
                 0x00000000        0x8 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_GetSaiFreq
                 0x00000000       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnablePortClock
+                0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_DisablePortClock
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_GetPortGateCmd
@@ -353,6 +371,8 @@ Discarded input sections
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_GetSpiGateCmd
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .text.CLOCK_SYS_EnableI2cClock
+                0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_DisableI2cClock
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_GetI2cGateCmd
@@ -371,10 +391,14 @@ Discarded input sections
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_GetTpmGateCmd
                 0x00000000       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.portGateTable
+                0x00000000        0x5 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .rodata.spiGateTable
                 0x00000000        0x2 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .bss.g_tpmClkFreq
                 0x00000000        0x8 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ .rodata.i2cGateTable
+                0x00000000        0x2 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .rodata.tpmGateTable
                 0x00000000        0x3 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .bss.g_usbClkInFreq
@@ -550,12 +574,18 @@ Discarded input sections
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
@@ -581,30 +611,44 @@ Discarded input sections
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x00000000       0x98 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xc0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
- .text._snprintf_r
-                0x00000000       0x5e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
+ .text._sbrk_r  0x00000000       0x24 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0xe /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .text.__ssprint_r
-                0x00000000      0x100 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text.__malloc_lock
+                0x00000000        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
@@ -612,29 +656,25 @@ Discarded input sections
                 0x00000000       0x1a /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
  .text._reclaim_reent
                 0x00000000       0xcc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
- .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
- .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
- .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000000       0x48 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .text          0x00000000       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x1d4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
  .data          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
  .text          0x00000000        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
@@ -668,6 +708,7 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-non
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
 LOAD CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
@@ -710,7 +751,7 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
  .FlashConfig   0x00000400       0x10 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
                 0x00000410                . = ALIGN (0x4)
 
-.text           0x00000410     0x2070
+.text           0x00000410     0x1020
                 0x00000410                . = ALIGN (0x4)
  *(.text)
  .text          0x00000410       0x60 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
@@ -757,379 +798,293 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
                 0x000004f8                LPTMR0_IRQHandler
                 0x000004f8                CMP0_IRQHandler
                 0x000004f8                DMA1_IRQHandler
- .text          0x00000500        0xe /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
-                0x00000500                strlen
- *fill*         0x0000050e        0x2 
- .text          0x00000510       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
-                0x00000510                __gnu_thumb1_case_uqi
- .text          0x00000524       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
-                0x00000524                __gnu_thumb1_case_uhi
- .text          0x00000538      0x114 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
-                0x00000538                __udivsi3
-                0x00000538                __aeabi_uidiv
-                0x00000644                __aeabi_uidivmod
- .text          0x0000064c      0x1d4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
-                0x0000064c                __aeabi_idiv
-                0x0000064c                __divsi3
-                0x00000818                __aeabi_idivmod
- .text          0x00000820        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
-                0x00000820                __aeabi_ldiv0
-                0x00000820                __aeabi_idiv0
+ .text          0x00000500       0x14 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                0x00000500                __gnu_thumb1_case_uqi
+ .text          0x00000514      0x114 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+                0x00000514                __udivsi3
+                0x00000514                __aeabi_uidiv
+                0x00000620                __aeabi_uidivmod
+ .text          0x00000628        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x00000628                __aeabi_ldiv0
+                0x00000628                __aeabi_idiv0
  *(.text*)
- .text._sbrk    0x00000824       0x38 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
-                0x00000824                _sbrk
- .text.udelay   0x0000085c        0xe CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x0000085c                udelay
- *fill*         0x0000086a        0x2 
- .text.PRINTHEX
-                0x0000086c       0x1c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x0000086c                PRINTHEX
+ .text.udelay   0x0000062c        0xe CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x0000062c                udelay
+ *fill*         0x0000063a        0x2 
  .text.read_i2c
-                0x00000888       0xd0 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x00000888                read_i2c
+                0x0000063c       0xb8 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x0000063c                read_i2c
  .text.write_i2c
-                0x00000958       0x64 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x00000958                write_i2c
+                0x000006f4       0x64 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x000006f4                write_i2c
  .text.init_i2c
-                0x000009bc       0x50 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x000009bc                init_i2c
+                0x00000758       0x60 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x00000758                init_i2c
+ .text.hardware_init
+                0x000007b8       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x000007b8                hardware_init
  .text.startup.main
-                0x00000a0c       0x4c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                0x00000a0c                main
+                0x000007e0       0x26 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x000007e0                main
+ *fill*         0x00000806        0x2 
  .text.configure_lpsci_pins
-                0x00000a58       0x1c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
-                0x00000a58                configure_lpsci_pins
+                0x00000808       0x1c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+                0x00000808                configure_lpsci_pins
  .text.BOARD_InitOsc0
-                0x00000a74       0x2c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
-                0x00000a74                BOARD_InitOsc0
+                0x00000824       0x2c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000824                BOARD_InitOsc0
  .text.BOARD_ClockInit
-                0x00000aa0       0x50 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
-                0x00000aa0                BOARD_ClockInit
+                0x00000850       0x50 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000850                BOARD_ClockInit
  .text.dbg_uart_init
-                0x00000af0       0x24 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
-                0x00000af0                dbg_uart_init
- .text.debug_putc
-                0x00000b14       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x000008a0       0x24 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x000008a0                dbg_uart_init
  .text.DbgConsole_Init
-                0x00000b3c      0x104 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
-                0x00000b3c                DbgConsole_Init
- .text.debug_printf
-                0x00000c40       0x38 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
-                0x00000c40                debug_printf
- .text.mknumstr
-                0x00000c78       0x84 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
- .text.fput_pad.isra.0
-                0x00000cfc       0x28 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
- .text._doprint
-                0x00000d24      0x3dc CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
-                0x00000d24                _doprint
+                0x000008c4      0x104 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x000008c4                DbgConsole_Init
  .text.SystemInit
-                0x00001100       0x10 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
-                0x00001100                SystemInit
+                0x000009c8       0x10 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+                0x000009c8                SystemInit
  .text.init_data_bss
-                0x00001110       0x7c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
-                0x00001110                init_data_bss
+                0x000009d8       0x7c CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+                0x000009d8                init_data_bss
  .text.OSA_TimeInit
-                0x0000118c       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x0000118c                OSA_TimeInit
+                0x00000a54       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000a54                OSA_TimeInit
  .text.OSA_TimeDiff
-                0x000011d0       0x12 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x000011d0                OSA_TimeDiff
- *fill*         0x000011e2        0x2 
+                0x00000a98       0x12 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000a98                OSA_TimeDiff
+ *fill*         0x00000aaa        0x2 
  .text.task_init
-                0x000011e4       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x000011e4                task_init
+                0x00000aac       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000aac                task_init
  .text.OSA_TimeGetMsec
-                0x0000121c       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x0000121c                OSA_TimeGetMsec
+                0x00000ae4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000ae4                OSA_TimeGetMsec
  .text.OSA_TimeDelay
-                0x0000122c       0x1c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x0000122c                OSA_TimeDelay
+                0x00000af4       0x1c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000af4                OSA_TimeDelay
  .text.OSA_Init
-                0x00001248        0xe ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
-                0x00001248                OSA_Init
- *fill*         0x00001256        0x2 
+                0x00000b10        0xe ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000b10                OSA_Init
+ *fill*         0x00000b1e        0x2 
  .text.CLOCK_SYS_BootToPee
-                0x00001258       0x84 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
-                0x00001258                CLOCK_SYS_BootToPee
+                0x00000b20       0x84 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00000b20                CLOCK_SYS_BootToPee
  .text.CLOCK_SYS_SetOscerConfigration
-                0x000012dc       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
-                0x000012dc                CLOCK_SYS_SetOscerConfigration
+                0x00000ba4       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00000ba4                CLOCK_SYS_SetOscerConfigration
  .text.CLOCK_SYS_OscInit
-                0x00001304       0x7c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
-                0x00001304                CLOCK_SYS_OscInit
+                0x00000bcc       0x7c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00000bcc                CLOCK_SYS_OscInit
  .text.SIM_HAL_EnableClock.constprop.8
-                0x00001380       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000c48       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .text.CLOCK_SYS_SetSimConfigration
-                0x000013a8       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000013a8                CLOCK_SYS_SetSimConfigration
+                0x00000c70       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000c70                CLOCK_SYS_SetSimConfigration
  .text.CLOCK_SYS_GetSystemClockFreq
-                0x000013e0       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000013e0                CLOCK_SYS_GetSystemClockFreq
+                0x00000ca8       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000ca8                CLOCK_SYS_GetSystemClockFreq
  .text.CLOCK_SYS_GetFlashClockFreq
-                0x00001400       0x18 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x00001400                CLOCK_SYS_GetFlashClockFreq
+                0x00000cc8       0x18 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000cc8                CLOCK_SYS_GetFlashClockFreq
  .text.CLOCK_SYS_GetPllFllClockFreq
-                0x00001418       0x30 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x00001418                CLOCK_SYS_GetPllFllClockFreq
+                0x00000ce0       0x30 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000ce0                CLOCK_SYS_GetPllFllClockFreq
  .text.CLOCK_SYS_GetOsc0ExternalRefClockFreq
-                0x00001448       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x00001448                CLOCK_SYS_GetOsc0ExternalRefClockFreq
+                0x00000d10       0x28 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000d10                CLOCK_SYS_GetOsc0ExternalRefClockFreq
  .text.CLOCK_SYS_GetLpsciFreq
-                0x00001470       0x34 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x00001470                CLOCK_SYS_GetLpsciFreq
+                0x00000d38       0x34 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000d38                CLOCK_SYS_GetLpsciFreq
  .text.CLOCK_SYS_GetUartFreq
-                0x000014a4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000014a4                CLOCK_SYS_GetUartFreq
- .text.CLOCK_SYS_EnablePortClock
-                0x000014b4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000014b4                CLOCK_SYS_EnablePortClock
- .text.CLOCK_SYS_EnableI2cClock
-                0x000014c4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000014c4                CLOCK_SYS_EnableI2cClock
+                0x00000d6c       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000d6c                CLOCK_SYS_GetUartFreq
  .text.CLOCK_SYS_EnableLpsciClock
-                0x000014d4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000014d4                CLOCK_SYS_EnableLpsciClock
+                0x00000d7c       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000d7c                CLOCK_SYS_EnableLpsciClock
  .text.CLOCK_SYS_EnableUartClock
-                0x000014e4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
-                0x000014e4                CLOCK_SYS_EnableUartClock
+                0x00000d8c       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00000d8c                CLOCK_SYS_EnableUartClock
  .text.LPSCI_HAL_SetBaudRate
-                0x000014f4       0xba ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
-                0x000014f4                LPSCI_HAL_SetBaudRate
+                0x00000d9c       0xba ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00000d9c                LPSCI_HAL_SetBaudRate
  .text.LPSCI_HAL_SetParityMode
-                0x000015ae       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
-                0x000015ae                LPSCI_HAL_SetParityMode
+                0x00000e56       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00000e56                LPSCI_HAL_SetParityMode
  .text.LPSCI_HAL_SendDataPolling
-                0x000015cc       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
-                0x000015cc                LPSCI_HAL_SendDataPolling
+                0x00000e74       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00000e74                LPSCI_HAL_SendDataPolling
  .text.LPSCI_HAL_ReceiveDataPolling
-                0x000015ec       0x36 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
-                0x000015ec                LPSCI_HAL_ReceiveDataPolling
+                0x00000e94       0x36 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x00000e94                LPSCI_HAL_ReceiveDataPolling
  .text.LPTMR_HAL_SetTimerWorkingMode
-                0x00001622       0x3c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
-                0x00001622                LPTMR_HAL_SetTimerWorkingMode
+                0x00000eca       0x3c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x00000eca                LPTMR_HAL_SetTimerWorkingMode
  .text.LPTMR_HAL_SetPrescalerMode
-                0x0000165e       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
-                0x0000165e                LPTMR_HAL_SetPrescalerMode
- *fill*         0x0000167e        0x2 
+                0x00000f06       0x20 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x00000f06                LPTMR_HAL_SetPrescalerMode
+ *fill*         0x00000f26        0x2 
  .text.LPTMR_HAL_GetCounterValue
-                0x00001680       0x14 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
-                0x00001680                LPTMR_HAL_GetCounterValue
+                0x00000f28       0x14 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x00000f28                LPTMR_HAL_GetCounterValue
  .text.CLOCK_HAL_PrepareOsc
-                0x00001694       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x00001694                CLOCK_HAL_PrepareOsc
+                0x00000f3c       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00000f3c                CLOCK_HAL_PrepareOsc
  .text.CLOCK_HAL_TestFllExternalRefFreq
-                0x000016b2       0x36 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x000016b2                CLOCK_HAL_TestFllExternalRefFreq
+                0x00000f5a       0x36 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00000f5a                CLOCK_HAL_TestFllExternalRefFreq
  .text.CLOCK_HAL_GetFllRefClk
-                0x000016e8       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x000016e8                CLOCK_HAL_GetFllRefClk
+                0x00000f90       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00000f90                CLOCK_HAL_GetFllRefClk
  .text.CLOCK_HAL_TestFllFreq
-                0x0000172c       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x0000172c                CLOCK_HAL_TestFllFreq
+                0x00000fd4       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00000fd4                CLOCK_HAL_TestFllFreq
  .text.CLOCK_HAL_GetFllClk
-                0x00001764       0x40 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x00001764                CLOCK_HAL_GetFllClk
+                0x0000100c       0x40 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x0000100c                CLOCK_HAL_GetFllClk
  .text.CLOCK_HAL_UpdateFastClkInternalRefDiv
-                0x000017a4       0x60 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x000017a4                CLOCK_HAL_UpdateFastClkInternalRefDiv
+                0x0000104c       0x60 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x0000104c                CLOCK_HAL_UpdateFastClkInternalRefDiv
  .text.CLOCK_HAL_UpdateInternalRefClk
-                0x00001804       0x52 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x00001804                CLOCK_HAL_UpdateInternalRefClk
- *fill*         0x00001856        0x2 
+                0x000010ac       0x52 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x000010ac                CLOCK_HAL_UpdateInternalRefClk
+ *fill*         0x000010fe        0x2 
  .text.CLOCK_HAL_GetPll0Clk
-                0x00001858       0x48 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x00001858                CLOCK_HAL_GetPll0Clk
+                0x00001100       0x48 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00001100                CLOCK_HAL_GetPll0Clk
  .text.CLOCK_HAL_GetInternalRefClk
-                0x000018a0       0x40 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x000018a0                CLOCK_HAL_GetInternalRefClk
+                0x00001148       0x40 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00001148                CLOCK_HAL_GetInternalRefClk
  .text.CLOCK_HAL_GetOutClk
-                0x000018e0       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x000018e0                CLOCK_HAL_GetOutClk
+                0x00001188       0x44 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x00001188                CLOCK_HAL_GetOutClk
  .text.CLOCK_HAL_SetOsc0Mode
-                0x00001924       0x24 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x00001924                CLOCK_HAL_SetOsc0Mode
+                0x000011cc       0x24 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x000011cc                CLOCK_HAL_SetOsc0Mode
  .text.CLOCK_HAL_SetPbeMode
-                0x00001948       0x88 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
-                0x00001948                CLOCK_HAL_SetPbeMode
+                0x000011f0       0x88 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+                0x000011f0                CLOCK_HAL_SetPbeMode
  .text.OSC_HAL_SetCapacitor
-                0x000019d0        0xe ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
-                0x000019d0                OSC_HAL_SetCapacitor
- *fill*         0x000019de        0x2 
+                0x00001278        0xe ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+                0x00001278                OSC_HAL_SetCapacitor
+ *fill*         0x00001286        0x2 
  .text.CLOCK_HAL_SetOutDiv
-                0x000019e0       0x1c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
-                0x000019e0                CLOCK_HAL_SetOutDiv
+                0x00001288       0x1c ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+                0x00001288                CLOCK_HAL_SetOutDiv
  .text.UART_HAL_SetBaudRate
-                0x000019fc       0x34 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
-                0x000019fc                UART_HAL_SetBaudRate
+                0x000012a4       0x34 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000012a4                UART_HAL_SetBaudRate
  .text.UART_HAL_SetParityMode
-                0x00001a30       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
-                0x00001a30                UART_HAL_SetParityMode
+                0x000012d8       0x1e ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000012d8                UART_HAL_SetParityMode
  .text.UART_HAL_SendDataPolling
-                0x00001a4e       0x22 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
-                0x00001a4e                UART_HAL_SendDataPolling
+                0x000012f6       0x22 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000012f6                UART_HAL_SendDataPolling
  .text.UART_HAL_ReceiveDataPolling
-                0x00001a70       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
-                0x00001a70                UART_HAL_ReceiveDataPolling
- .text.__errno  0x00001aa8        0xc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
-                0x00001aa8                __errno
- .text.exit     0x00001ab4       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
-                0x00001ab4                exit
+                0x00001318       0x38 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x00001318                UART_HAL_ReceiveDataPolling
+ .text.exit     0x00001350       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x00001350                exit
  .text.__libc_init_array
-                0x00001ae0       0x4c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
-                0x00001ae0                __libc_init_array
- .text.memset   0x00001b2c       0x10 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
-                0x00001b2c                memset
- .text._free_r  0x00001b3c       0x98 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
-                0x00001b3c                _free_r
- .text._malloc_r
-                0x00001bd4       0xc0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
-                0x00001bd4                _malloc_r
- .text._sbrk_r  0x00001c94       0x24 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
-                0x00001c94                _sbrk_r
- .text.snprintf
-                0x00001cb8       0x64 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
-                0x00001cb8                snprintf
-                0x00001cb8                sniprintf
- .text.__malloc_lock
-                0x00001d1c        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
-                0x00001d1c                __malloc_lock
- .text.__malloc_unlock
-                0x00001d1e        0x2 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
-                0x00001d1e                __malloc_unlock
- .text.__ssputs_r
-                0x00001d20       0xc4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
-                0x00001d20                __ssputs_r
- .text._svfprintf_r
-                0x00001de4      0x1fc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
-                0x00001de4                _svfprintf_r
-                0x00001de4                _svfiprintf_r
- .text._printf_common
-                0x00001fe0       0xdc /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x00001fe0                _printf_common
- .text._printf_i
-                0x000020bc      0x244 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x000020bc                _printf_i
- .text.memchr   0x00002300       0x16 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
-                0x00002300                memchr
- .text.memcpy   0x00002316       0x12 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
-                0x00002316                memcpy
- .text.memmove  0x00002328       0x2a /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
-                0x00002328                memmove
- .text._realloc_r
-                0x00002352       0x4c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
-                0x00002352                _realloc_r
- .text._malloc_usable_size_r
-                0x0000239e       0x16 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
-                0x0000239e                _malloc_usable_size_r
- .text._exit    0x000023b4        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
-                0x000023b4                _exit
+                0x0000137c       0x4c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x0000137c                __libc_init_array
+ .text.memset   0x000013c8       0x10 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x000013c8                memset
+ .text._exit    0x000013d8        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000013d8                _exit
  *(.rodata)
- .rodata        0x000023b8        0xc CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+ .rodata        0x000013dc        0xc CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  *(.rodata*)
- .rodata.str1.1
-                0x000023c4       0x35 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
-                                 0x38 (size before relaxing)
- *fill*         0x000023f9        0x1 
  .rodata.g_defaultClockConfigRun
-                0x000023fa       0x14 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
-                0x000023fa                g_defaultClockConfigRun
- *fill*         0x0000240e        0x2 
+                0x000013e8       0x14 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x000013e8                g_defaultClockConfigRun
  .rodata.g_oscBase
-                0x00002410        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
-                0x00002410                g_oscBase
- .rodata.portGateTable
-                0x00002414        0x5 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x000013fc        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+                0x000013fc                g_oscBase
  .rodata.uartGateTable
-                0x00002419        0x3 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
- .rodata.i2cGateTable
-                0x0000241c        0x2 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x00001400        0x3 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+ *fill*         0x00001403        0x1 
  .rodata.fllFactorTable.5344
-                0x0000241e       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
- *fill*         0x0000242e        0x2 
+                0x00001404       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
  .rodata._global_impure_ptr
-                0x00002430        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
-                0x00002430                _global_impure_ptr
- .rodata.str1.1
-                0x00002434       0x11 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .rodata.str1.1
-                0x00002445       0x22 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001414        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x00001414                _global_impure_ptr
  *(.glue_7)
- .glue_7        0x00002467        0x0 linker stubs
+ .glue_7        0x00001418        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x00002467        0x0 linker stubs
+ .glue_7t       0x00001418        0x0 linker stubs
  *(.eh_frame)
- *fill*         0x00002467        0x1 
- .eh_frame      0x00002468        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .eh_frame      0x00001418        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
  *(.init)
- .init          0x00002468        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
-                0x00002468                _init
- .init          0x0000246c        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ .init          0x00001418        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00001418                _init
+ .init          0x0000141c        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
  *(.fini)
- .fini          0x00002474        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
-                0x00002474                _fini
- .fini          0x00002478        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
-                0x00002480                . = ALIGN (0x4)
+ .fini          0x00001424        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00001424                _fini
+ .fini          0x00001428        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00001430                . = ALIGN (0x4)
 
-.vfp11_veneer   0x00002480        0x0
- .vfp11_veneer  0x00002480        0x0 linker stubs
+.vfp11_veneer   0x00001430        0x0
+ .vfp11_veneer  0x00001430        0x0 linker stubs
 
-.v4_bx          0x00002480        0x0
- .v4_bx         0x00002480        0x0 linker stubs
+.v4_bx          0x00001430        0x0
+ .v4_bx         0x00001430        0x0 linker stubs
 
-.iplt           0x00002480        0x0
- .iplt          0x00002480        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+.iplt           0x00001430        0x0
+ .iplt          0x00001430        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x00002480        0x8
-                0x00002480                __exidx_start = .
+.ARM            0x00001430        0x8
+                0x00001430                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x00002480        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
-                0x00002488                __exidx_end = .
+ .ARM.exidx     0x00001430        0x8 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00001438                __exidx_end = .
 
-.rel.dyn        0x00002488        0x0
- .rel.iplt      0x00002488        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+.rel.dyn        0x00001438        0x0
+ .rel.iplt      0x00001438        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
 
-.ctors          0x00002488        0x0
-                0x00002488                __CTOR_LIST__ = .
+.ctors          0x00001438        0x0
+                0x00001438                __CTOR_LIST__ = .
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
  *(SORT(.ctors.*))
  *(.ctors)
-                0x00002488                __CTOR_END__ = .
+                0x00001438                __CTOR_END__ = .
 
-.dtors          0x00002488        0x0
-                0x00002488                __DTOR_LIST__ = .
+.dtors          0x00001438        0x0
+                0x00001438                __DTOR_LIST__ = .
  *crtbegin.o(.dtors)
  *crtbegin?.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
  *(SORT(.dtors.*))
  *(.dtors)
-                0x00002488                __DTOR_END__ = .
+                0x00001438                __DTOR_END__ = .
 
-.preinit_array  0x00002488        0x0
-                0x00002488                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x00001438        0x0
+                0x00001438                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x00002488                PROVIDE (__preinit_array_end, .)
+                0x00001438                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x00002488        0x4
-                0x00002488                PROVIDE (__init_array_start, .)
+.init_array     0x00001438        0x4
+                0x00001438                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array*)
- .init_array    0x00002488        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
-                0x0000248c                PROVIDE (__init_array_end, .)
+ .init_array    0x00001438        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+                0x0000143c                PROVIDE (__init_array_end, .)
 
-.fini_array     0x0000248c        0x4
+.fini_array     0x0000143c        0x4
                 [!provide]                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000248c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .fini_array    0x0000143c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end, .)
-                0x00002490                __etext = .
-                0x00002490                __DATA_ROM = .
+                0x00001440                __etext = .
+                0x00001440                __DATA_ROM = .
 
 .mtb            0x1fffe000        0x0
                 0x1fffe000                . = ALIGN (0x8)
@@ -1150,7 +1105,7 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
                 0x00000000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
                 0x00000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
 
-.data           0x1fffe000       0x74 load address 0x00002490
+.data           0x1fffe000       0x70 load address 0x00001440
                 0x1fffe000                . = ALIGN (0x4)
                 0x1fffe000                __DATA_RAM = .
                 0x1fffe000                __data_start__ = .
@@ -1167,67 +1122,55 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
                 0x1fffe008                g_fastInternalRefClkFreq
  .data.impure_data
                 0x1fffe00c       0x60 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
- .data._impure_ptr
-                0x1fffe06c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
-                0x1fffe06c                _impure_ptr
  *(.jcr*)
- .jcr           0x1fffe070        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
- .jcr           0x1fffe070        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
-                0x1fffe074                . = ALIGN (0x4)
-                0x1fffe074                __data_end__ = .
-                0x00002504                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+ .jcr           0x1fffe06c        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .jcr           0x1fffe06c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+                0x1fffe070                . = ALIGN (0x4)
+                0x1fffe070                __data_end__ = .
+                0x000014b0                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
                 0x00040000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
                 0x00000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
 
-.igot.plt       0x1fffe074        0x0 load address 0x00002504
- .igot.plt      0x1fffe074        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+.igot.plt       0x1fffe070        0x0 load address 0x000014b0
+ .igot.plt      0x1fffe070        0x0 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
 
-.bss            0x1fffe074       0xa4 load address 0x00002504
-                0x1fffe074                . = ALIGN (0x4)
-                0x1fffe074                __START_BSS = .
-                0x1fffe074                __bss_start__ = .
+.bss            0x1fffe070       0x94 load address 0x000014b0
+                0x1fffe070                . = ALIGN (0x4)
+                0x1fffe070                __START_BSS = .
+                0x1fffe070                __bss_start__ = .
  *(.bss)
- .bss           0x1fffe074       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .bss           0x1fffe070       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
  *(.bss*)
- .bss.heap_end.5297
-                0x1fffe090        0x4 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
  .bss.s_debugConsole
-                0x1fffe094       0x10 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x1fffe08c       0x10 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .bss.g_taskListHead
-                0x1fffe0a4       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x1fffe09c       0x10 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .bss.g_freeTaskControlBlock
-                0x1fffe0b4        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x1fffe0ac        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .bss.g_taskControlBlockPool
-                0x1fffe0b8       0x50 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x1fffe0b0       0x50 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .bss.g_xtal0ClkFreq
-                0x1fffe108        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
-                0x1fffe108                g_xtal0ClkFreq
- .bss.__malloc_sbrk_start
-                0x1fffe10c        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
-                0x1fffe10c                __malloc_sbrk_start
- .bss.__malloc_free_list
-                0x1fffe110        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
-                0x1fffe110                __malloc_free_list
+                0x1fffe100        0x4 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x1fffe100                g_xtal0ClkFreq
  *(COMMON)
- COMMON         0x1fffe114        0x4 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
-                0x1fffe114                errno
-                0x1fffe118                . = ALIGN (0x4)
-                0x1fffe118                __bss_end__ = .
-                0x1fffe118                __END_BSS = .
+                0x1fffe104                . = ALIGN (0x4)
+                0x1fffe104                __bss_end__ = .
+                0x1fffe104                __END_BSS = .
 
-.heap           0x1fffe118     0x2000 load address 0x000025a8
-                0x1fffe118                . = ALIGN (0x8)
-                0x1fffe118                __end__ = .
-                0x1fffe118                PROVIDE (end, .)
-                0x1fffe118                __HeapBase = .
-                0x20000118                . = (. + HEAP_SIZE)
- *fill*         0x1fffe118     0x2000 
-                0x20000118                __HeapLimit = .
+.heap           0x1fffe104     0x2004 load address 0x00001544
+                0x1fffe108                . = ALIGN (0x8)
+ *fill*         0x1fffe104        0x4 
+                0x1fffe108                __end__ = .
+                0x1fffe108                PROVIDE (end, .)
+                0x1fffe108                __HeapBase = .
+                0x20000108                . = (. + HEAP_SIZE)
+ *fill*         0x1fffe108     0x2000 
+                0x20000108                __HeapLimit = .
 
-.stack          0x20000118     0x2000 load address 0x000045a8
-                0x20000118                . = ALIGN (0x8)
-                0x20002118                . = (. + STACK_SIZE)
- *fill*         0x20000118     0x2000 
+.stack          0x20000108     0x2000 load address 0x00003548
+                0x20000108                . = ALIGN (0x8)
+                0x20002108                . = (. + STACK_SIZE)
+ *fill*         0x20000108     0x2000 
                 0x20006000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
                 0x20004000                __StackLimit = (__StackTop - STACK_SIZE)
                 0x20006000                PROVIDE (__stack, __StackTop)
@@ -1242,110 +1185,70 @@ LOAD /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
  .ARM.attributes
                 0x0000004a       0x1b /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
  .ARM.attributes
-                0x00000065       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+                0x00000065       0x1b CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
  .ARM.attributes
-                0x00000097       0x1b CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
+                0x00000080       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
  .ARM.attributes
-                0x000000b2       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+                0x000000b2       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
  .ARM.attributes
-                0x000000e4       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
+                0x000000e4       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
  .ARM.attributes
-                0x00000116       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
+                0x00000116       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
  .ARM.attributes
-                0x00000148       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
+                0x00000148       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
  .ARM.attributes
-                0x0000017a       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
+                0x0000017a       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
  .ARM.attributes
-                0x000001ac       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
+                0x000001ac       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
  .ARM.attributes
-                0x000001de       0x32 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
+                0x000001de       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
  .ARM.attributes
-                0x00000210       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
+                0x00000210       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
  .ARM.attributes
-                0x00000242       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager.c.obj)
+                0x00000242       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
  .ARM.attributes
-                0x00000274       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_manager_common.c.obj)
+                0x00000274       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
  .ARM.attributes
-                0x000002a6       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_clock_MKL46Z4.c.obj)
+                0x000002a6       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
  .ARM.attributes
-                0x000002d8       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lpsci_hal.c.obj)
+                0x000002d8       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
  .ARM.attributes
-                0x0000030a       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_lptmr_hal.c.obj)
+                0x0000030a       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
  .ARM.attributes
-                0x0000033c       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal.c.obj)
+                0x0000033c       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
  .ARM.attributes
-                0x0000036e       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_mcg_hal_modes.c.obj)
+                0x0000036e       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
  .ARM.attributes
-                0x000003a0       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_osc_hal.c.obj)
+                0x000003a0       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
  .ARM.attributes
-                0x000003d2       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
+                0x000003d2       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000404       0x32 ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
+                0x000003fe       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000436       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
+                0x0000042a       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
  .ARM.attributes
-                0x00000462       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x00000456       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
  .ARM.attributes
-                0x0000048e       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x00000482       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
  .ARM.attributes
-                0x000004ba       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x000004a0       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
  .ARM.attributes
-                0x000004e6       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x000004be       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
  .ARM.attributes
-                0x00000512       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                0x000004dc       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
  .ARM.attributes
-                0x0000053e       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000508       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
  .ARM.attributes
-                0x0000056a       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
- .ARM.attributes
-                0x00000596       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
- .ARM.attributes
-                0x000005c2       0x1c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
- .ARM.attributes
-                0x000005de       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
- .ARM.attributes
-                0x0000060a       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .ARM.attributes
-                0x00000636       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .ARM.attributes
-                0x00000662       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
- .ARM.attributes
-                0x0000068e       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
- .ARM.attributes
-                0x000006ba       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
- .ARM.attributes
-                0x000006e6       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
- .ARM.attributes
-                0x00000712       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
- .ARM.attributes
-                0x0000073e       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
- .ARM.attributes
-                0x0000076a       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uqi.o)
- .ARM.attributes
-                0x00000788       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_thumb1_case_uhi.o)
- .ARM.attributes
-                0x000007a6       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
- .ARM.attributes
-                0x000007c4       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
- .ARM.attributes
-                0x000007e2       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_dvmd_tls.o)
- .ARM.attributes
-                0x00000800       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
- .ARM.attributes
-                0x0000082c       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
- .ARM.attributes
-                0x00000858       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00000534       0x1e /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
 OUTPUT(release/i2c.elf elf32-littlearm)
 
 .comment        0x00000000       0x6e
- .comment       0x00000000       0x6e CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
+ .comment       0x00000000       0x6e CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
                                  0x6f (size before relaxing)
- .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
  .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
  .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
  .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj
- .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj
  .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj
  .comment       0x0000006e       0x6f CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj
  .comment       0x0000006e       0x6f ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_os_abstraction_bm.c.obj)
@@ -1360,24 +1263,9 @@ OUTPUT(release/i2c.elf elf32-littlearm)
  .comment       0x0000006e       0x6f ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_sim_hal_MKL46Z4.c.obj)
  .comment       0x0000006e       0x6f ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a(fsl_uart_hal.c.obj)
 
-.debug_frame    0x00000000      0x3c8
- .debug_frame   0x00000000       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-errno.o)
- .debug_frame   0x00000020       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
- .debug_frame   0x00000048       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
- .debug_frame   0x00000074       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00000094       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x000000c0       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x000000ec       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00000118       0x50 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-snprintf.o)
- .debug_frame   0x00000168       0x30 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-mlock.o)
- .debug_frame   0x00000198       0x74 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
- .debug_frame   0x0000020c       0x54 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x00000260       0x48 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
- .debug_frame   0x000002a8       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr-stub.o)
- .debug_frame   0x000002c8       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
- .debug_frame   0x000002f0       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
- .debug_frame   0x00000318       0x30 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x00000348       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
- .debug_frame   0x00000368       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
- .debug_frame   0x00000388       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_divsi3.o)
- .debug_frame   0x000003a8       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+.debug_frame    0x00000000       0xb4
+ .debug_frame   0x00000000       0x28 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000094       0x20 /home/laurie/gcc-arm/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)

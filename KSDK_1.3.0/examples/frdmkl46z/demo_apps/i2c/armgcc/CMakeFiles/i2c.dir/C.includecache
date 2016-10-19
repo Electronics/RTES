@@ -2696,6 +2696,14 @@ core_cm0plus.h
 system_MKL46Z4.h
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/system_MKL46Z4.h
 
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
+board.h
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/board.h
+MKL46Z4.h
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h
+fsl_debug_console.h
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/fsl_debug_console.h
+
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c
 board.h
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/board.h
@@ -2703,8 +2711,8 @@ MKL46Z4.h
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h
 fsl_debug_console.h
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/fsl_debug_console.h
-fsl_clock_manager.h
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/fsl_clock_manager.h
+accel_i2c.c
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c
 stdint.h

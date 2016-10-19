@@ -1,5 +1,5 @@
-CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj: \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c \
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj: \
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../board.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../pin_mux.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../gpio_pins.h \
@@ -16,11 +16,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/devices/MKL46Z4/include/fsl_bitaccess.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/devices/MKL46Z4/include/MKL46Z4_features.h \
  /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/hal/inc/fsl_gpio_hal.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/utilities/inc/fsl_debug_console.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/osa/inc/fsl_os_abstraction.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/osa/inc/fsl_os_abstraction_bm.h \
- /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
+ /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../board.h:
 
@@ -55,11 +51,3 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/hal/inc/fsl_gpio_hal.h:
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h:
-
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/utilities/inc/fsl_debug_console.h:
-
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/osa/inc/fsl_os_abstraction.h:
-
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/../../../../../platform/osa/inc/fsl_os_abstraction_bm.h:
-
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c:

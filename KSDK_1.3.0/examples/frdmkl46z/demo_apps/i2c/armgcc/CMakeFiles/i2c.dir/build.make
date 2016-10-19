@@ -121,9 +121,33 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj.provides.build: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
 
 
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj: CMakeFiles/i2c.dir/flags.make
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj"
+	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
+
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i"
+	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c > CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i
+
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s"
+	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s
+
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.requires:
+
+.PHONY : CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.requires
+
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.provides: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.requires
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.provides.build
+.PHONY : CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.provides
+
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.provides.build: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+
+
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.i: cmake_force
@@ -147,7 +171,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.ob
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.i: cmake_force
@@ -171,7 +195,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj.
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.i: cmake_force
@@ -195,7 +219,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj.pr
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj: /home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_console.c.i: cmake_force
@@ -219,7 +243,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_debug_
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj: /home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan.c.i: cmake_force
@@ -243,7 +267,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/print_scan
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj: /home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/system_MKL46Z4.c.i: cmake_force
@@ -267,7 +291,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj: CMakeFiles/i2c.dir/flags.make
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj: /home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj"
 	/home/laurie/gcc-arm/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.obj   -c /home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/startup.c.i: cmake_force
@@ -294,6 +318,7 @@ i2c_OBJECTS = \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj" \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj" \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj" \
+"CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj" \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj" \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj" \
 "CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj" \
@@ -308,6 +333,7 @@ i2c_EXTERNAL_OBJECTS =
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
+release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj
 release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj
@@ -318,7 +344,7 @@ release/i2c.elf: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices
 release/i2c.elf: CMakeFiles/i2c.dir/build.make
 release/i2c.elf: ../../../../../lib/ksdk_platform_lib/armgcc/KL46Z4/release/libksdk_platform.a
 release/i2c.elf: CMakeFiles/i2c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable release/i2c.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable release/i2c.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/i2c.dir/link.txt --verbose=$(VERBOSE)
 	/home/laurie/gcc-arm/bin/arm-none-eabi-objcopy -Oihex /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/release/i2c.elf /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/release/i2c.hex
 	/home/laurie/gcc-arm/bin/arm-none-eabi-objcopy -Obinary /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/release/i2c.elf /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/release/i2c.bin
@@ -331,6 +357,7 @@ CMakeFiles/i2c.dir/build: release/i2c.elf
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/utilities/src/fsl_misc_utilities.c.obj.requires
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S.obj.requires
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj.requires
+CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj.requires
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj.requires
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/pin_mux.c.obj.requires
 CMakeFiles/i2c.dir/requires: CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.obj.requires

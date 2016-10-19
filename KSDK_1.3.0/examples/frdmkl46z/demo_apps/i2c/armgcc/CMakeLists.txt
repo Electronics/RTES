@@ -17,7 +17,7 @@ SET(CMAKE_STATIC_LIBRARY_SUFFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_PREFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_SUFFIX)
 
- 
+
 # CURRENT DIRECTORY
 SET(ProjDirPath ${CMAKE_CURRENT_SOURCE_DIR})
 
@@ -90,10 +90,11 @@ ELSEIF(CMAKE_BUILD_TYPE MATCHES Release)
 ENDIF()
 
 # ADD_EXECUTABLE
-ADD_EXECUTABLE(i2c 
+ADD_EXECUTABLE(i2c
     "${ProjDirPath}/../../../../../platform/utilities/src/fsl_misc_utilities.c"
     "${ProjDirPath}/../../../../../platform/devices/MKL46Z4/startup/gcc/startup_MKL46Z4.S"
     "${ProjDirPath}/../main.c"
+    "${ProjDirPath}/../accel_i2c.c"
     "${ProjDirPath}/../../../gpio_pins.c"
     "${ProjDirPath}/../../../gpio_pins.h"
     "${ProjDirPath}/../../../pin_mux.c"

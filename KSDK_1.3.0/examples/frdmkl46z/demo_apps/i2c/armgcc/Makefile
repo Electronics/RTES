@@ -150,6 +150,33 @@ home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.s:
 	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.s
 .PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.c.s
 
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.obj: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.obj
+
+# target to build an object file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.obj
+
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.i: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.i
+
+# target to preprocess a source file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.i
+
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.s: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s
+
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.s
+
+# target to generate assembly for a file
+home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s:
+	$(MAKE) -f CMakeFiles/i2c.dir/build.make CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s
+.PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c.s
+
 home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.obj: home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj
 
 .PHONY : home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.obj
@@ -387,6 +414,9 @@ help:
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.obj"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.i"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/board.s"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.obj"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.i"
+	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.s"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.obj"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.i"
 	@echo "... home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.s"
