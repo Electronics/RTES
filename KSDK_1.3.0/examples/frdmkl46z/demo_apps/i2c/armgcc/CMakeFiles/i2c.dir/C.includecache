@@ -2713,6 +2713,12 @@ fsl_debug_console.h
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/fsl_debug_console.h
 accel_i2c.c
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
+touch.c
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c
+
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c
+board.h
+/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/board.h
 
 /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c
 stdint.h

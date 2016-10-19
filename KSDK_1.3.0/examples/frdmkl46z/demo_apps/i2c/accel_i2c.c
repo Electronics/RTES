@@ -255,7 +255,9 @@ void hardware_init() {
   SIM->SCGC5 |= _BV(13)|_BV(12)|_BV(11)|_BV(10)|_BV(9);
 
   BOARD_ClockInit();
+  #ifdef I2CDEBUG
   dbg_uart_init();
+  #endif
 
   //PRINTF("Initialised debug\r\n\r\n");
 

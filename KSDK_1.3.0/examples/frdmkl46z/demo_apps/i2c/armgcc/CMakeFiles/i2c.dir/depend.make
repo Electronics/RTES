@@ -732,6 +732,7 @@ CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/MKL46Z4.h
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/accel_i2c.c
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c
+CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/main.c.obj: /home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/touch.c
 
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj: ../../../../../platform/CMSIS/Include/core_cm0plus.h
 CMakeFiles/i2c.dir/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/gpio_pins.c.obj: ../../../../../platform/CMSIS/Include/core_cm4.h
