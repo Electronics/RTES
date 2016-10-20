@@ -8,10 +8,9 @@ void touch_init() {
 
   TSI0_TSHD = 0;
   TSI0_DATA = 0;
-  // 16uA 600mV PS:4
   // Channels 9 and 10
-  TSI0_GENCS =  _BV(21) | _BV(20) | _BV(16) | _BV(14) | _BV(7);
-  //               1uA      600mV    1uA         / 4     enable
+  TSI0_GENCS =  _BV(23) | _BV(18) | _BV(13) | _BV(7);
+  //               8uA      8uA         / 2     enable
 }
 
 uint16_t touch_read(uint8_t channel) {
