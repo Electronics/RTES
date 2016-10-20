@@ -1,3 +1,0 @@
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/edit_cache.dir
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/rebuild_cache.dir
-/home/laurie/RTES/KSDK_1.3.0/examples/frdmkl46z/demo_apps/i2c/armgcc/CMakeFiles/i2c.dir
