@@ -1,3 +1,4 @@
+// initial code written by James Adams
 #include "board.h"
 
 void light_sensor_init(void)

@@ -2,9 +2,11 @@
 #include "MKL46Z4.h"
 #include "fsl_debug_console.h"
 #include "accel_i2c.c"
+#include "light_sensor.c"
 #include "touch.c"
 
 #define DEADZONE 20
+#define LIGHTDEADZONE 800
 #define MAXCLICK 200
 
 void init_buttons() {
@@ -20,6 +22,7 @@ int main() {
   hardware_init();
   dbg_uart_init();
   touch_init();
+  light_sensor_init();
   init_buttons();
   LED1_EN;
   LED2_EN;
@@ -39,6 +42,15 @@ int main() {
   bool mode=false;
   int lastDifference = 0;
   bool wasTouch=false;
+  uint8_t lastClickStatusMode1=0;
+  uint16_t lightCalibration = 0;
+
+  // dummy read to start ADC
+  light_sensor_read();
+  OSA_TimeDelay(1);
+  // Get a level for the light sensor (with averaging)
+  lightCalibration=(light_sensor_read()+light_sensor_read()+light_sensor_read()+light_sensor_read())>>2;
+  PRINTF("%d\r\n",lightCalibration);
 
   while(1) {
     leftClickStatus = (PTC->PDIR & (1U<<3))>>3;
@@ -52,9 +64,22 @@ int main() {
         //PRINTF("Changed mode %d\r\n",mode);
         if(mode) LED1_ON;
         else LED1_OFF;
+        OSA_TimeDelay(1000);
+        continue; // Let us read the buttons etc again
       }
     } else {
       lastClickStatus=0;
+    }
+
+    // Check if there's a hand on the mouse
+    if(!(light_sensor_read()>lightCalibration+LIGHTDEADZONE)) {
+      //PRINTF("No hand %d %d\r\n",lightCalibration,light_sensor_read());
+      LED2_ON;
+      OSA_TimeDelay(50);
+      continue;
+    } else {
+      //PRINTF("ye hand %d %d\r\n",lightCalibration,light_sensor_read());
+      LED2_OFF;
     }
 
     if(mode) {
@@ -70,6 +95,30 @@ int main() {
        }
       }
       touchCal = touchCal/100;
+
+      if(!leftClickStatus) {
+        if(!(lastClickStatusMode1 & 1)) {
+          PRINTF("LCLICK DOWN\r\n",lastClickStatusMode1);
+          lastClickStatusMode1|=1;
+        }
+      } else {
+        if(lastClickStatusMode1&1) {
+          PRINTF("LCLICK UP\r\n");
+          lastClickStatusMode1&=~1; // Stops us from clicking multiple times when holding down button
+        }
+      }
+      if(!rightClickStatus) {
+        if(!(lastClickStatusMode1&2)) {
+          PRINTF("RCLICK DOWN\r\n");
+          lastClickStatusMode1|=2;
+        }
+      } else {
+        if(lastClickStatusMode1&2) {
+          PRINTF("RCLICK UP\r\n");
+          lastClickStatusMode1&=~2; // Stops us from clicking multiple times when holding down button
+        }
+      }
+
 
       //OSA_TimeDelay(100);
       first = touch_read(9);
