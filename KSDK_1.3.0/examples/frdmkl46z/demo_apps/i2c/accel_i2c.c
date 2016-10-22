@@ -15,6 +15,11 @@
 
 #define ACCEL_CTRL_1 0x2a
 #define ACCEL_OUT_X_MSB 0x01
+#define ACCEL_OUT_X_LSB 0x02
+#define ACCEL_OUT_Y_MSB 0x03
+#define ACCEL_OUT_Y_LSB 0x04
+#define ACCEL_OUT_Z_MSB 0x05
+#define ACCEL_OUT_Z_LSB 0x06
 
 void udelay(int num) {
   for(int i=0;i<num;i++) asm("nop");
@@ -262,6 +267,8 @@ void hardware_init() {
   //PRINTF("Initialised debug\r\n\r\n");
 
   init_i2c();
+
+  write_i2c(ACCEL_WRITE_CMD,ACCEL_CTRL_1,1U); // Turn on the accelerometer
 
   return;
 }
